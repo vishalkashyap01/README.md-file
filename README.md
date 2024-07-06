@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishalkashyap01
 - 👀 I’m interested in java, javascript & python 
 - 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on front-end projects
+- 💞 I’m looking to collaborate on front-end projects
 - 📫 How to reach me vishalkashyap4511@gmail.com
 
 <!---
