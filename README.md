@@ -29,7 +29,7 @@ Here are a few notable projects I've been working on:
 
 1. Youtube Content Downloader - This is a backend software to help get the resources from youtube into room database.
    - Technologies used: Python, API, Pycharm, gitbash
-   - Link: https://github.com/vishalkashyap01/youtube.downloader.github.io
+   - Link: https://github.com/vishalkashyap01/Youtube-Content-Downloader
 
 2. Portfolio - .
    - Technologies used: HTML, CSS, VS Code, GitHub Pages
