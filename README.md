@@ -27,19 +27,28 @@ I'm a passionate Front End Web Developer with a keen interest in Java programmin
 
 Here are a few notable projects I've been working on:
 
-1. Youtube Content Downloader - This is a backend software to help get the resources from youtube into room database.
-   - Technologies used: Python, API, Pycharm, gitbash
-   - Link: https://github.com/vishalkashyap01/Youtube-Content-Downloader
+1. Youtube Content Downloader
+   - This is a backend software to help get the resources from youtube into room database.
+   - Technologies used : Python, API, Pycharm, gitbash
+   - Link: https : //github.com/vishalkashyap01/Youtube-Content-Downloader
 
-2. Portfolio - .
-   - Technologies used: HTML, CSS, VS Code, GitHub Pages
-   - Link: https://vishalkashyap01.github.io/Portfolio/
+2. Portfolio
+   - I learn a lot how to hadle mutliple things at to connect and different experience fro me!
+   - Technologies used : HTML, CSS, VS code, GitHub Pages
+   - Link: https : /github.com/vishalkashyap01.github.io/Portfolio
 
+4. CRUD Operations
+   - To applied read, upate, delete & add features to learn for my future projects
+   - Technologies used : Python, Java, GitHub, Git, Intellij IDEA, Chat-GPt(Revise Topics & enhance code)
+   - link : //github.com/vishalkashyap01/CRUD-Operations
+  
+     
 ## Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/vishal-kashyap-68535a253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Twitter: @imvishalkshyp
-- Portfolio: https://vishalkashyap01.github.io/Portfolio/
+- LinkedIn : https://www.linkedin.com/in/vishal-kashyap-68535a253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Twitter : @imvishalkshyp
+- Portfolio : https://vishalkashyap01.github.io/Portfolio/
+- Instagram : _vishalkashyap._
 
 Feel free to reach out if you have any questions or just want to connect!
 
