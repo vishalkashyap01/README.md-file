@@ -1,8 +1,8 @@
 <div align="center" style="background-color:#f0f8ff; padding:20px; border-radius:10px; font-family:Arial, sans-serif;">
 
 <h1 style="color:#1E90FF;">Hi there, I'm <span style="color:#FF69B4;">Vishal Kashyap!</span></h1>
-<img src="https://www.studiohr.ro/images/2023/09/29/full-stack-developer.jpeg" alt="banner" style="width:80%; border-radius:10px;">
-
+<!-- <img src="https://www.studiohr.ro/images/2023/09/29/full-stack-developer.jpeg" alt="banner" style="width:80%; border-radius:10px;">
+ -->
 <p style="font-size:18px; color:#696969;">
 I'm a passionate <span style="color:#FF69B4;">Front End Web Developer</span> with a keen interest in <span style="color:#1E90FF;">Java programming</span> and currently exploring the exciting world of <span style="color:#FF69B4;">Android Development</span>.
 </p>
